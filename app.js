@@ -193,7 +193,7 @@ function loadSampleTopics() {
       subjectId: 'mechanics',
       chapterId: 'mech_ch5',
       name: 'Introduction to Measurement',
-      content: "Measurement : Measurement is the proccess of result comparison between a quantity whose magnitude is unknown ( known as measurand ) with a similar quantity whose magnitutde is known ( known as standard ). \n1 Example : Length, Weight, Angle etc.. ",
+      content: "Measurement : Measurement is the proccess of result comparison between a quantity whose magnitude is unknown ( known as measurand ) with a similar quantity whose magnitutde is known ( known as standard ). \n Example : Length, Weight, Angle etc..\n Measurement Consists Of TWO Parts : \n 1. Number 2. Unit \n ERROR IN MEASUREMENT : It is defined as a difference between indicated or measured value and true value. ",
       tags: ['forces', 'resultant'],
       favorite: false,
       createdDate: '2025-11-01',
