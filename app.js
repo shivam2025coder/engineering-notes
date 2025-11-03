@@ -79,7 +79,7 @@ const appState = {
         { id: 'mech_ch2', number: 2, title: 'Rigid Bodies', description: 'Moments, Couples, Equilibrium of Rigid Bodies, Support Reactions' },
         { id: 'mech_ch3', number: 3, title: 'Friction', description: 'Laws of Friction, Static and Kinetic Friction, Applications' },
         { id: 'mech_ch4', number: 4, title: 'Kinematics', description: 'Motion of Particles, Velocity, Acceleration, Relative Motion' },
-        { id: 'mech_ch5', number: 5, title: 'Kinetics', description: "Newton's Laws, Work-Energy Principle, Impulse-Momentum" }
+        { id: 'mech_ch5', number: 5, title: 'Introduction to Measurement and Mechatronics', description: "Concept of Measurement, Measurement of Pressure" }
       ]
     }
   ],
