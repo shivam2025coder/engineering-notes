@@ -187,6 +187,19 @@ function loadSampleTopics() {
       createdTime: '13:00',
       modifiedDate: '2025-11-01',
       modifiedTime: '13:00'
+    },
+    {
+      id: generateId(),
+      subjectId: 'mechanics',
+      chapterId: 'mech_ch5',
+      name: 'Introduction to Measurement',
+      content: "Measurement : Measurement is the proccess of result comparison between a quantity whose magnitude is unknown ( known as measurand ) with a similar quantity whose magnitutde is known ( known as standard ). \n1 Example : Length, Weight, Angle etc.. ",
+      tags: ['forces', 'resultant'],
+      favorite: false,
+      createdDate: '2025-11-01',
+      createdTime: '13:00',
+      modifiedDate: '2025-11-01',
+      modifiedTime: '13:00'
     }
   ];
   
